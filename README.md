@@ -9,7 +9,11 @@
 - 💬 Current interests in neuroscience, computational reproducibility, NLP and generative art
 - 🔗 [Website](https://jvfe.github.io/)
 
-<p align="center">
-<a href="https://twitter.com/Jvcavv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Jvcavv" height="30" width="30" /></a>
+<!--START_CONTRIBUTIONS:readme-info-->
 
-![Jvfe's github stats](https://github-readme-stats.vercel.app/api?username=jvfe&show_icons=true&count_private=true&theme=onedark)
+<!--END_CONTRIBUTIONS:readme-info-->
+
+<!--START_SECTION_LANGUAGE:readme-info-->
+
+<!--END_SECTION_LANGUAGE:readme-info-->
+
