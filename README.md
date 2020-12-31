@@ -10,7 +10,7 @@
 - 🔗 [Website](https://jvfe.github.io/)
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 1,090 Contributions in year 2020**
+**🏆 1,100 Contributions in year 2020**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
