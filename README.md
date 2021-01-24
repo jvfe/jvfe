@@ -5,6 +5,6 @@
 - 👨‍💻 Mostly program in Python and R
 - 🐧 Penguin powered
 - 📊 Check out [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)!
-- 🌱 I’m currently learning Rust! (or at least trying to)
+- 🌱 I’m currently learning webdev! (or at least trying to)
 - 💬 Current interests in neuroscience, computational reproducibility, NLP and generative art
 - 🔗 [Website](https://jvfe.github.io/)
