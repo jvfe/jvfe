@@ -2,7 +2,7 @@
 
 - 🥼 Undergraduate student in Biomedical Science @UFRN
 - 🧬 Currently doing bioinformatics research [@biomegroup](https://github.com/biomegroup)
-- 💻 GSoC'21 Student Dev
+- 💻 [GSoC](https://summerofcode.withgoogle.com/)'21 Student Dev for the R Project for Statistical Computing 
 - 👨‍💻 Mostly program in Python and R
 - 🐧 Penguin powered
 - 📊 Check out [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)!
