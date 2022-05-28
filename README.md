@@ -6,6 +6,6 @@
 - 👨‍💻 Mostly program in Python and R
 - 🐧 Penguin powered
 - 📊 Check out [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)!
-- 🌱 I’m currently learning webdev! (Following [The Odin Project](https://www.theodinproject.com) curriculum)
-- 💬 Current interests in neuroscience, computational reproducibility, NLP and generative art
+- 💬 Current interests in metagenomics, bioinformatics workflows, computational reproducibility and generative art
 - 🔗 [Website](https://jvfe.github.io/)
+- 🗎 [CV](https://jvfe.github.io/cv/cv-en/cv-en.pdf)
