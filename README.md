@@ -1,6 +1,6 @@
 <h3 align="center">Student ∙ Bioinformatician ∙ Programmer</h3>
 
-- 🥼 Undergraduate student in Biomedical Science @UFRN
+- 🥼 Bachelor in Biomedical Science @UFRN
 - 🧬 Currently doing bioinformatics research [@biomegroup](https://github.com/biomegroup)
 - 💻 [GSoC](https://summerofcode.withgoogle.com/)'21 Student Dev for the R Project for Statistical Computing 
 - 👨‍💻 Mostly program in Python and R
