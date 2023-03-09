@@ -1,4 +1,4 @@
-<h3 align="center">Student ∙ Bioinformatician ∙ Programmer</h3>
+<h3 align="center">Bioinformatician ∙ Researcher</h3>
 
 - 🥼 Bachelor in Biomedical Science @UFRN
 - 🧬 Doing bioinformatics research [@biomegroup](https://github.com/biomegroup)
