@@ -10,3 +10,4 @@
 - 💬 Current interests in metagenomics, bioinformatics workflows, computational reproducibility and generative art
 - 🔗 [Website](https://jvfe.github.io/)
 - 🗎 [CV](https://jvfe.github.io/cv/cv-en/cv-en.pdf)
+- ☕ You can [buy me a coffee](https://buymeacoffee.com/jvfe) if you liked something I made!
