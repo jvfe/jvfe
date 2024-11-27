@@ -7,6 +7,6 @@
 - 💻 [GSoC](https://summerofcode.withgoogle.com/)'21 Student Dev for the R Project for Statistical Computing 
 - 👨‍💻 Mostly program in Python and R
 - 💬 Current interests in metagenomics, bioinformatics workflows and computational reproducibility
-- 🔗 This is my [Website](https://jvfe.github.io/)
+- 🔗 This is my [Website](http://joao.bio.br/)
 - 🗎 [CV](https://jvfe.github.io/cv/cv-en/cv-en.pdf)
 - ☕ You can [buy me a coffee](https://buymeacoffee.com/jvfe) if you liked something I made!
