@@ -1,7 +1,7 @@
 <h3 align="center">Bioinformatics Developer ∙ Researcher</h3>
 
 - 🥼 Bachelor in Biomedical Science @UFRN
-- 🧬 Master's student [@dalmolingroup](https://github.com/dalmolingroup)/[@biomegroup](https://github.com/biomegroup)
+- 🧬 PhD student [@dalmolingroup](https://github.com/dalmolingroup)/[@biomegroup](https://github.com/biomegroup)
 - 🦠 Worked developing the [ARETE](https://github.com/beiko-lab/arete) nextflow pipeline [@beiko-lab](https://github.com/beiko-lab/) - Dalhousie University
 - 🍏 [Nextflow Ambassador](https://www.nextflow.io/ambassadors.html)!
 - 💻 [GSoC](https://summerofcode.withgoogle.com/)'21 Student Dev for the R Project for Statistical Computing 
