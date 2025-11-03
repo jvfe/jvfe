@@ -1,7 +1,7 @@
 <h3 align="center">Bioinformatics Developer ∙ Researcher</h3>
 
 - 🧬 PhD student [@dalmolingroup](https://github.com/dalmolingroup)/[@biomegroup](https://github.com/biomegroup)
-- 🌱 Bioinformatician @SepalAI
+- 🌱 Bioinformatician @[Sepal AI](https://www.sepalai.com/about)
 - 🦠 Worked developing the [ARETE](https://github.com/beiko-lab/arete) nextflow pipeline [@beiko-lab](https://github.com/beiko-lab/) - Dalhousie University
 - 🇬🇧 Was part of the [Future Innovators programme](https://www.sanger.ac.uk/about/study/biodev-network-future-innovators-mentorships/) from the BioDev Network/Sanger Institute
 - 🍏 [Nextflow Ambassador](https://www.nextflow.io/ambassadors.html)!
