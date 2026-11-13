@@ -3,7 +3,6 @@
 - 🧬 PhD student [@dalmolingroup](https://github.com/dalmolingroup)/[@biomegroup](https://github.com/biomegroup)
 - 🦠 Worked developing the [ARETE](https://github.com/beiko-lab/arete) nextflow pipeline [@beiko-lab](https://github.com/beiko-lab/) - Dalhousie University
 - 🇬🇧 Was part of the [Future Innovators programme](https://www.sanger.ac.uk/about/study/biodev-network-future-innovators-mentorships/) from the BioDev Network/Sanger Institute
-- 🍏 [Nextflow Ambassador](https://www.nextflow.io/ambassadors.html)!
 - 💻 [GSoC](https://summerofcode.withgoogle.com/)'21 Student Dev for the R Project for Statistical Computing 
 - 👨‍💻 Mostly program in Python and R
 - 💬 Current interests in network analysis, gene regulatory networks and scRNA-seq.
